@@ -1,0 +1,22 @@
+.main-container{
+	background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../../img/bg.jpg');
+	background-repeat: no-repeat;
+	background-size: 100% 500px;
+	height:597px;
+}
+
+.no-padding {
+	padding: 0 !important;
+}
+
+.padding-5 {
+	padding: 5px !important;
+}
+
+.no-margin {
+	margin: 0 !important;
+}
+
+.margin-5 {
+	margin: 5px !important;
+}
